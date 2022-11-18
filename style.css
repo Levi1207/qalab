@@ -345,6 +345,13 @@ a {
         background-size: cover;
     } */
 }
+
+@media (max-width: 375px) {
+    .main-row-item-l {
+        padding: 0px 0px 150px 0px;
+    }
+
+
 @media (max-width: 320px) {
     .burger-act {
         padding: 40px 985px 0px 0px;
